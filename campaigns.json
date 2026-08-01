@@ -2,9 +2,76 @@
   "schemaVersion": 1,
   "keyId": "promo-p256-2026-01",
   "payload": {
-    "manifestVersion": 1,
-    "generatedAt": "2026-08-01T17:30:44.619Z",
-    "campaigns": []
+    "manifestVersion": 2,
+    "generatedAt": "2026-08-01T18:03:50.471Z",
+    "campaigns": [
+      {
+        "campaignId": "launch-open-2026",
+        "title": "Açılış Hediyesi / Launch Gift",
+        "startsAt": "2026-08-01T00:00:00+03:00",
+        "expiresAt": "2027-01-01T00:00:00+03:00",
+        "rewards": [
+          {
+            "type": "equipment",
+            "itemId": 201,
+            "qualityId": 2,
+            "plusLevel": 6,
+            "amount": 1
+          },
+          {
+            "type": "equipment",
+            "itemId": 101,
+            "qualityId": 2,
+            "plusLevel": 6,
+            "amount": 1
+          },
+          {
+            "type": "equipment",
+            "itemId": 601,
+            "qualityId": 2,
+            "plusLevel": 6,
+            "amount": 1
+          },
+          {
+            "type": "equipment",
+            "itemId": 301,
+            "qualityId": 2,
+            "plusLevel": 6,
+            "amount": 1
+          },
+          {
+            "type": "equipment",
+            "itemId": 401,
+            "qualityId": 2,
+            "plusLevel": 6,
+            "amount": 1
+          },
+          {
+            "type": "equipment",
+            "itemId": 501,
+            "qualityId": 2,
+            "plusLevel": 6,
+            "amount": 1
+          },
+          {
+            "type": "currency",
+            "currencyId": "silver",
+            "amount": 1500
+          },
+          {
+            "type": "resource",
+            "resourceId": "stone",
+            "amount": 10
+          },
+          {
+            "type": "resource",
+            "resourceId": "orb",
+            "amount": 10
+          }
+        ],
+        "codeHash": "c286ff904d897661a4ff84d21040824d12387b8e6cc85d9d820f6195d2b33aa8"
+      }
+    ]
   },
-  "signature": "pqXYZRXVy9nEkDOFmuCtFM8Ezsr7ZQs3/V2CiNZadI5MqbdHlOw+LO6zcUGG857oNQYHBQCZrBB0O4/tG89oEQ=="
+  "signature": "/D0XBt104b5/gXU/xG84yabYi9yzcIZbRvdP0KnFzf+AYUTV21J3NUW2BfodRW4PT0js0tfyLme3/kf7o81fnA=="
 }
