@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "keyId": "promo-p256-2026-01",
   "payload": {
-    "manifestVersion": 4,
-    "generatedAt": "2026-08-16T17:28:54.770Z",
+    "manifestVersion": 5,
+    "generatedAt": "2026-08-18T20:41:55.851Z",
     "campaigns": [
       {
         "campaignId": "launch-open-2026",
@@ -71,10 +71,16 @@
           }
         ],
         "campaignLabel": "A",
-        "notices": [],
+        "notices": [
+          {
+            "noteId": "A1",
+            "title": "Açılış Hediyesi hazır!",
+            "content": "+.#0bd0af+Oyunumuzun ilk açılış dönemi olması nedeniyle siz oyuncularımıza ilk promosyon kodumuzu hazırladık. İçerisindeki eşyalar ile ilk bölgelerde rahat ve hızlıca ilerleyebileceksiniz.+.white+\n\n**+.#e1ff00+Promosyon Kodu:+.white+ +.#00fa11++.GL+OPEN2026+..GL++.white+**\n\n+.#0bd0af+Kullanabilmek için XP Bar'ın sağ altındaki menü butonuna tıklayıp \"Promosyon Kodu\" alanına OPEN2026 yazmanız yeterli.\nÖdüller için posta kutunuzu kontrol etmeyi unutmayın!+.white+"
+          }
+        ],
         "codeHash": "c286ff904d897661a4ff84d21040824d12387b8e6cc85d9d820f6195d2b33aa8"
       }
     ]
   },
-  "signature": "lPtVcQRveQzdkdK97RIu0Bn6sMsgVQHEBLScbLZYJVr15F78QlZXgbuYrtA8t71QCKuQM8g8bBDtrkeh/cWwCA=="
+  "signature": "n0RVt4M8V5gBqCeoKXI3JfoP3C6S/A1QAAuQ1uL0WTMgYUwVIwlhK8xG2Ckz1RewsHIGUFw0tar64t/yLDTkGQ=="
 }
