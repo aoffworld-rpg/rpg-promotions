@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "keyId": "promo-p256-2026-01",
   "payload": {
-    "manifestVersion": 8,
-    "generatedAt": "2026-08-19T04:57:24.039Z",
+    "manifestVersion": 9,
+    "generatedAt": "2026-08-19T05:46:30.986Z",
     "campaigns": [
       {
         "campaignId": "launch-open-2026",
@@ -82,5 +82,5 @@
       }
     ]
   },
-  "signature": "Wte+2Bp/QEU9mAcRfXCoL1iZ8NgCSIVdutLTXJ/wLab2EeSowkGHxqq93XDZAICWno8Ks60PV4V2bI293015gw=="
+  "signature": "sk3Ijn0wDybi83JEkuMYWSxhU+5ZWBxQc3VoBJ8tgQdbc5EWkGc+dVlynVR1bKF7JC7zlKgxGmSnzCtD4jJ0yA=="
 }
