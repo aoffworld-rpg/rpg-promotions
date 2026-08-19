@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "keyId": "promo-p256-2026-01",
   "payload": {
-    "manifestVersion": 7,
-    "generatedAt": "2026-08-18T20:43:43.912Z",
+    "manifestVersion": 8,
+    "generatedAt": "2026-08-19T04:57:24.039Z",
     "campaigns": [
       {
         "campaignId": "launch-open-2026",
-        "title": "Açılış Hediyesi / Launch Gift",
-        "code": "OPEN2026",
+        "title": "Hoşgeldin!",
+        "code": "UYANIS2026",
         "startsAt": "2026-08-01T00:00:00+03:00",
         "expiresAt": "2027-01-01T00:00:00+03:00",
         "rewards": [
@@ -70,17 +70,17 @@
             "amount": 10
           }
         ],
-        "campaignLabel": "B",
+        "campaignLabel": "A",
         "notices": [
           {
-            "noteId": "B1",
+            "noteId": "A1",
             "title": "Açılış Hediyesi hazır!",
-            "content": "+.#0bd0af+Oyunumuzun ilk açılış dönemi olması nedeniyle siz oyuncularımıza ilk promosyon kodumuzu hazırladık. İçerisindeki eşyalar ile ilk bölgelerde rahat ve hızlıca ilerleyebileceksiniz.+.white+\n\n**+.#e1ff00+Promosyon Kodu:+.white+ +.#00fa11++.GL+OPEN2026+..GL++.white+**\n\n+.#0bd0af+Kullanabilmek için XP Bar'ın sağ altındaki menü butonuna tıklayıp \"Promosyon Kodu\" alanına OPEN2026 yazmanız yeterli.\nÖdüller için posta kutunuzu kontrol etmeyi unutmayın!+.white+"
+            "content": "+.#0bd0af+Oyunumuzun ilk açılış dönemi olması nedeniyle siz oyuncularımıza ilk promosyon kodumuzu hazırladık. İçerisindeki eşyalar ile ilk bölgelerde rahat ve hızlıca ilerleyebileceksiniz.+.white+\n\n**+.#e1ff00+Promosyon Kodu:+.white+ +.#00fa11++.GL+UYANIS2026+..GL++.white+**\n\n+.#0bd0af+Kullanabilmek için XP Bar'ın sağ altındaki menü butonuna tıklayıp \"Promosyon Kodu\" alanına OPEN2026 yazmanız yeterli.\nÖdüller için posta kutunuzu kontrol etmeyi unutmayın!+.white+"
           }
         ],
-        "codeHash": "c286ff904d897661a4ff84d21040824d12387b8e6cc85d9d820f6195d2b33aa8"
+        "codeHash": "d31b1ee814ecc5c5de09f42823a7585fb26dbff74b4014eea3aa813fc112d1fe"
       }
     ]
   },
-  "signature": "IqSsnf48bn9uKlK00zdrIK7jgXEtl41u60rffGBZ3yO0KifKg/Zoq9Ev6cZJRe4Fxe/+pcmlXKj8NPH33sQqig=="
+  "signature": "Wte+2Bp/QEU9mAcRfXCoL1iZ8NgCSIVdutLTXJ/wLab2EeSowkGHxqq93XDZAICWno8Ks60PV4V2bI293015gw=="
 }
